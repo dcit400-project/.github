@@ -1,7 +1,10 @@
 # .github
-# Interface
-WebApp - https://ncd-app-frontend-rf98tgfzu-markaryees-projects.vercel.app/
+# Interfaces
+Web App - https://ncd-app-frontend-rf98tgfzu-markaryees-projects.vercel.app/
 
+Android App - https://github.com/dcit400-project/ncd_app_frontend_web3/releases/tag/android
+
+The Application requires access to the following subsystems
 # APIs 
 Supabase - https://supabase.com/dashboard/project/ygtiyxkivpjjucfxehbr
 
